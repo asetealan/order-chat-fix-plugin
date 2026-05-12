@@ -1,0 +1,8 @@
+﻿name: OrderChatFix
+version: 1.0.0
+main: me.pera.orderchatfix.OrderChatFixPlugin
+api-version: '1.21'
+author: Codex
+description: Translates MATERIAL_NAME tokens in chat to Turkish names.
+depend: [ProtocolLib]
+
